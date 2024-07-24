@@ -45,4 +45,4 @@ function StoryBoard() {
   );
 }
 
-export default StoryBoard;
+export default storyboard;
